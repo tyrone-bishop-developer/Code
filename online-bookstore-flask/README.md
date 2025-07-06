@@ -4,20 +4,6 @@
 
 **⚠️ ACADEMIC USE ONLY - FOR EDUCATIONAL PURPOSES**
 
-This Flask web application is designed specifically for **software testing education** and is part of the **St Mary College Software Testing Mid Exam Assessment**. Students will use this codebase to learn and practice various software testing methodologies and techniques.
-
-## 🎯 Learning Objectives
-
-This project serves as a practical learning platform for students to:
-
-- **Unit Testing**: Test individual components and functions
-- **Integration Testing**: Test component interactions
-- **Functional Testing**: Verify business requirements
-- **User Interface Testing**: Test web interface functionality
-- **Test Case Design**: Create comprehensive test scenarios
-- **Bug Detection**: Identify and document software defects
-- **Test Documentation**: Write clear test reports and documentation
-
 ## 🛍️ Application Overview
 
 The Online Bookstore is a simple e-commerce web application built with Flask that demonstrates common software patterns and potential testing scenarios.
