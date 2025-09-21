@@ -17,7 +17,7 @@ import unittest
 class TestBookBrowsingAndSearch(unittest.TestCase):
     """Unit test cases for FR-001: Book browsing and search"""
     
-    @unittest.skip("Book browsing not yet implemented.")
+    @unittest.skip("Book filtering by category not yet implemented")
     def test_browse_books_by_category(self):
         """FR001-01: Test browsing books by category"""
         pass
